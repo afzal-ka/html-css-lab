@@ -1,0 +1,47 @@
+.cat-img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 12px;
+}
+
+.card{
+    box-shadow: 0 0 5px rgba(0, 0 ,0, 0.3);
+    width: 200px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.name{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 8px;
+    margin-bottom: 4px;
+    
+}
+
+.mutual{
+    color: rgb(100, 100, 100);
+    margin-left: 8px;
+    margin-bottom: 12px;
+}
+
+.add-btn{
+    border: none;
+    background-color: rgb(24, 119, 242);
+    color: white;
+    padding: 10px 20px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
